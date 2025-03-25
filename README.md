@@ -3,7 +3,6 @@
 - 🌱 I’m currently aspiring to write PL-400 exam.
 - 💞️ I’m looking to collaborate on SharePoint and Power Platform development.
 - 📫 I can be reached at mihreteklem@gmail.com
-- 😄 Pronouns: ...
 - ⚡ Fun fact: My keyboard has a dedicated ‘Undo’ button. (Just kidding, but I wish it did.)
 
 <!---
